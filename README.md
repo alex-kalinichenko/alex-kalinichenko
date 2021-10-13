@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+I'm Alexander - Data Scientist with experience in oil & gas industry.
+
+
+
 
 <!--
 **alex-kalinichenko/alex-kalinichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
