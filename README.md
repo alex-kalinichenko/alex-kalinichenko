@@ -8,11 +8,9 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
 
 ### Education
-Postgraduate diploma from GeekBrains Data Science and Artificial Intelligence faculty
-
-Master’s degree in exploration and production of oil & gas fields, diploma with honours
-
-Master’s degree in economics and management, diploma
+- Postgraduate diploma from GeekBrains Data Science and Artificial Intelligence faculty
+- Master’s degree in exploration and production of oil & gas fields, diploma with honours
+- Master’s degree in economics and management, diploma
 
 ### Other
 💬 The article [Machine Learning model for water cut prediction](https://github.com/alex-kalinichenko/re/tree/master/wct_fc) for oil field. The article were posted in [habr](https://habr.com/ru/post/533470/)
