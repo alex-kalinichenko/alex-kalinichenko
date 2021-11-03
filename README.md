@@ -8,7 +8,7 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
 
 ### 👨‍🎓 Education
-- Postgraduate diploma from GeekBrains Data Science and Artificial Intelligence faculty
+- **Postgraduate Diploma in Data Science and Artificial Intelligence** from GeekBrains
 - Master’s degree in exploration and production of oil & gas fields, diploma with honours
 - Master’s degree in economics and management, diploma
 
