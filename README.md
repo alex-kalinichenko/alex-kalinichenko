@@ -18,7 +18,7 @@ Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
 
 ### 💬 Other
 - The article [Machine Learning model for water cut prediction](https://github.com/alex-kalinichenko/re/tree/master/wct_fc) for oil field. The article were posted in [habr](https://habr.com/ru/post/533470/)
-- Most of my **skills** were described [here](https://github.com/alex-kalinichenko/gb#readme)
+- Most of my **skills** are described [here](https://github.com/alex-kalinichenko/gb#readme)
 
 
 <!--
