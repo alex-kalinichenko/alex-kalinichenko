@@ -20,6 +20,18 @@ Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
 - The article [Machine Learning model for water cut prediction](https://github.com/alex-kalinichenko/re/tree/master/wct_fc) for oil field. The article were posted in [habr](https://habr.com/ru/post/533470/)
 - Most of my **skills** are described [here](https://github.com/alex-kalinichenko/gb#readme)
 
+### 🔥 My skills
+- Python, Pandas, NumPy, Scikit-Learn, 
+- XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
+- NLP, Computer Vision, recommender systems
+- Power BI, Dash, Matplotlib, Seaborn, Plotly
+- SQL, NoSQL (MongoDB, Redis)
+- Git, Anaconda, pip, PEP8, PyCharm, Jupyter, Colab
+- Scrapy, BeautifulSoup, XPath
+- HTTP, REST, API, JSON
+- HTML/CSS, Brackets, Figma
+- Linux, Docker, VirtualBox, Putty 
+
 
 <!--
 **alex-kalinichenko/alex-kalinichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
