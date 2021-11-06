@@ -16,10 +16,6 @@ Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
 - [Raiffeisen](https://raifhack.ru/) bank Hackathon: [152-nd place](https://github.com/alex-kalinichenko/raifhack) in solo from ~1500 people gathered in 377 teams.
 - [EVRAZ](https://hackathon.evraz.com/) AI challenge: [42-nd place](https://github.com/alex-kalinichenko/evraz_ai) in solo from 62 teams from 1 to 5 people each.
 
-### 💬 Other
-- The article [Machine Learning model for water cut prediction](https://github.com/alex-kalinichenko/re/tree/master/wct_fc) for oil field. The article were posted in [habr](https://habr.com/ru/post/533470/)
-- Most of my **skills** are described [here](https://github.com/alex-kalinichenko/gb#readme)
-
 ### 🔥 My skills
 - Python, Pandas, NumPy, Scikit-Learn, 
 - XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
@@ -31,6 +27,10 @@ Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
 - HTTP, REST, API, JSON
 - HTML/CSS, Brackets, Figma
 - Linux, Docker, VirtualBox, Putty 
+
+### 💬 Other
+- The article [Machine Learning model for water cut prediction](https://github.com/alex-kalinichenko/re/tree/master/wct_fc) for oil field. The article were posted in [habr](https://habr.com/ru/post/533470/)
+- Most of my **skills** are described [here](https://github.com/alex-kalinichenko/gb#readme)
 
 
 <!--
