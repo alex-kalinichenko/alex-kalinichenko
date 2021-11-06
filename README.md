@@ -3,9 +3,9 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 
 🌱 **My Data Science [learning path](https://github.com/alex-kalinichenko/gb)**
 
-🔭 Now I'm **Data Scientist at [Zyfra](https://www.zyfra.com/)** - largest Russian company providing Industrial Internet of Things, Artificial Intelligence and Machine Learning solutions for energy companies.
-
-Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
+### 🏢 Work
+- Now I'm **Data Scientist at [Zyfra](https://www.zyfra.com/)** - largest Russian company providing Industrial Internet of Things, Artificial Intelligence and Machine Learning solutions for energy companies
+- Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft
 
 ### 👨‍🎓 Education
 - **Postgraduate Diploma in Data Science and Artificial Intelligence**
@@ -17,7 +17,7 @@ Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft.
 - [EVRAZ](https://hackathon.evraz.com/) AI challenge: [42-nd place](https://github.com/alex-kalinichenko/evraz_ai) in solo from 62 teams from 1 to 5 people each.
 
 ### 🔥 My skills
-- Python, Pandas, NumPy, Scikit-Learn, 
+- Python, Pandas, NumPy, Scikit-Learn
 - XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
 - NLP, Computer Vision, recommender systems
 - Power BI, Dash, Matplotlib, Seaborn, Plotly
