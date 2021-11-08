@@ -14,7 +14,7 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 
 ### ⚡ Achievements
 - [Raiffeisen](https://raifhack.ru/) bank Hackathon: [152-nd place](https://github.com/alex-kalinichenko/raifhack) in solo from ~1500 people gathered in 377 teams.
-- [EVRAZ](https://hackathon.evraz.com/) AI challenge: [42-nd place](https://github.com/alex-kalinichenko/evraz_ai) in solo from 62 teams from 1 to 5 people each.
+- [EVRAZ](https://hackathon.evraz.com/) AI challenge: [42-nd place](https://github.com/alex-kalinichenko/evraz_ai) in solo from ~600 people gathered in 113 teams (1 to 5 people each).
 
 ### 🔥 My skills
 - Python, Pandas, NumPy, Scikit-Learn
