@@ -17,7 +17,7 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 - [EVRAZ](https://hackathon.evraz.com/) AI challenge: [42-nd place](https://github.com/alex-kalinichenko/evraz_ai) in solo from ~600 people gathered in 113 teams (1 to 5 people each).
 
 ### 🔥 My skills
-- Python, Pandas, NumPy, Scikit-Learn
+- Python, Pandas, NumPy, Scikit-Learn, LightAutoML
 - XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
 - NLP, Computer Vision, recommender systems
 - Power BI, Dash, Matplotlib, Seaborn, Plotly
