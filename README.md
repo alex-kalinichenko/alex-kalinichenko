@@ -20,6 +20,7 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 ### 🔥 My skills
 - Python, Pandas, NumPy, Scikit-Learn, LightAutoML
 - XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
+- GeoPandas, Shapely, Folium, OSMNX
 - NLP, Computer Vision, recommender systems
 - Power BI, Dash, Matplotlib, Seaborn, Plotly
 - SQL, NoSQL (MongoDB, Redis)
