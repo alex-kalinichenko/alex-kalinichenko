@@ -13,8 +13,8 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 - Master’s degree in economics and management, diploma
 
 ### ⚡ Achievements
-- [Raiffeisen](https://raifhack.ru/) bank Hackathon: [top-10%](https://github.com/alex-kalinichenko/raifhack) in solo.
-- [EVRAZ](https://hackathon.evraz.com/) AI challenge: [top-7%](https://github.com/alex-kalinichenko/evraz_ai) in solo.
+- [Raiffeisen](https://raifhack.ru/) bank Hackathon: [top 10%](https://github.com/alex-kalinichenko/raifhack) in solo.
+- [EVRAZ](https://hackathon.evraz.com/) AI challenge: [top 7%](https://github.com/alex-kalinichenko/evraz_ai) in solo.
 - [Wildberries](https://hack-app.wildberries.ru/contests/hack#/) hackathon: our team got **top-5** in the track “Seller’s analytics” from 410 people in 65 teams and 3 tracks.
 
 ### 🔥 My skills
