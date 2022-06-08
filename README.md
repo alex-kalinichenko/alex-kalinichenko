@@ -9,7 +9,7 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 
 ### 👨‍🎓 Education
 - **Postgraduate Diploma in Data Science and Artificial Intelligence**
-- Master’s degree in exploration and production of oil & gas fields, diploma with honours
+- Master’s degree in Developing and Operation of oil & gas fields, diploma with honour (GPA 5.0 out of 5.0)
 - Master’s degree in economics and management, diploma
 
 ### ⚡ Achievements
