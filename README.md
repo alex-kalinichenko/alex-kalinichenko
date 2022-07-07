@@ -11,7 +11,7 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 - **Postgraduate Diploma in Data Science, Machine Learning and Artificial Intelligence**
 - Master’s degree in Developing and Operation of oil & gas fields, diploma with honour (GPA 5.0 out of 5.0)
 - Master’s degree in economics and management, diploma
-- English language - C1 🇬🇧
+- English language - C1
 
 ### ⚡ Achievements
 - [Raiffeisen](https://raifhack.ru/) bank Hackathon: [top 10%](https://github.com/alex-kalinichenko/raifhack) in solo.
