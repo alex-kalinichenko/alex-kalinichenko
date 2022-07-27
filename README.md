@@ -31,8 +31,11 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 - HTML/CSS, Brackets, Figma
 - Linux, Docker, VirtualBox, Putty 
 
-### 💬 Other
-- The article [Machine Learning model for water cut prediction](https://github.com/alex-kalinichenko/re/tree/master/wct_fc) for oil field. The article were posted in [habr](https://habr.com/ru/post/533470/)
+### 📝 Articles
+- Machine Learning model for water cut prediction of oil field wells [post](https://habr.com/ru/post/533470/), [code](https://github.com/alex-kalinichenko/re/tree/master/wct_fc)
+- Another approach to augmentation of tabular data [post](https://github.com/LeorFinkelberg/timeseries_data_augmentation), [code](https://github.com/LeorFinkelberg/timeseries_data_augmentation) 
+
+### 📗 Other
 - Most of my **skills** are described [here](https://github.com/alex-kalinichenko/gb#readme)
 
 
