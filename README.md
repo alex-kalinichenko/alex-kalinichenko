@@ -23,7 +23,7 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 - XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
 - GeoPandas, Shapely, Folium, OSMNX
 - NLP, Computer Vision, recommender systems
-- Power BI, Dash, Matplotlib, Seaborn, Plotly
+- Streamlit, Dash, Matplotlib, Plotly, Seaborn, Power BI
 - SQL, NoSQL (MongoDB, Redis)
 - Git, Anaconda, pip, PEP8, PyCharm, Jupyter, Colab
 - Scrapy, BeautifulSoup, XPath
