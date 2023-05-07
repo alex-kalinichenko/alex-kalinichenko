@@ -19,11 +19,11 @@ I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas ind
 - [Wildberries](https://hack-app.wildberries.ru/contests/hack#/) hackathon: our team got **top-5** in the track “Seller’s analytics” from 410 people in 65 teams and 3 tracks.
 
 ### 🔥 My skills
-- Python, Pandas, NumPy, Scikit-Learn, LightAutoML
+- Python, pandas, NumPy, scikit-Learn, LightAutoML
 - XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
-- GeoPandas, Shapely, Folium, OSMNX
+- GeoPandas, Shapely, Folium, OSMnx
 - NLP, Computer Vision, recommender systems
-- Streamlit, Dash, Matplotlib, Plotly, Seaborn, Power BI
+- Streamlit, Flask, Dash, Matplotlib, Plotly, Seaborn, Power BI
 - SQL, NoSQL (MongoDB, Redis)
 - Git, Anaconda, pip, PEP8, PyCharm, Jupyter, Colab
 - Scrapy, BeautifulSoup, XPath
