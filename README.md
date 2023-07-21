@@ -1,11 +1,13 @@
 ### Hi 👋
-I'm **Alexander Kalinichenko - Data Scientist** with experience in oil & gas industry.
+I'm **Alexander Kalinichenko - Data Scientist** 
+<!-- with experience in oil & gas industry.
 
 🌱 **My Data Science [learning path](https://github.com/alex-kalinichenko/gb)**
 
 ### 🏢 Work
 - Now I'm **Data Scientist at [Zyfra](https://www.zyfra.com/)** - largest Russian company providing Industrial Internet of Things, Artificial Intelligence and Machine Learning solutions for energy companies
 - Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft
+-->
 
 ### 👨‍🎓 Education
 - **Postgraduate Diploma in Data Science, Machine Learning and Artificial Intelligence**
