@@ -1,6 +1,8 @@
 ### Hi 👋
 I'm **Alexander Kalinichenko - Data Scientist** 
-<!-- with experience in oil & gas industry.
+
+<!--
+with experience in oil & gas industry.
 
 🌱 **My Data Science [learning path](https://github.com/alex-kalinichenko/gb)**
 
