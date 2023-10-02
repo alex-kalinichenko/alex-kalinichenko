@@ -7,8 +7,8 @@ with experience in oil & gas industry.
 🌱 **My Data Science [learning path](https://github.com/alex-kalinichenko/gb)**
 
 ### 🏢 Work
-- Now I'm **Data Scientist at [Zyfra](https://www.zyfra.com/)** - largest Russian company providing Industrial Internet of Things, Artificial Intelligence and Machine Learning solutions for energy companies
-- Previously I worked at Rosneft, Roxar, WintershallDea and GazpromNeft
+- Now I'm a **Data Scientist at [Zyfra](https://www.zyfra.com/)** - the largest Russian company providing Industrial Internet of Things, Artificial Intelligence and Machine Learning solutions for energy companies
+- Previously I worked at Rosneft, Roxar, WintershallDea, and GazpromNeft
 -->
 
 ### 👨‍🎓 Education
@@ -33,7 +33,7 @@ with experience in oil & gas industry.
 - Scrapy, BeautifulSoup, XPath
 - HTTP, REST, API, JSON
 - HTML/CSS, Brackets, Figma
-- Linux, Docker, VirtualBox, Putty 
+- Linux, Docker, Amazon Web Services (AWS)
 
 ### 📝 Articles
 - Machine Learning model for water cut prediction of oil field wells [post](https://habr.com/ru/post/533470), [code](https://github.com/alex-kalinichenko/re/tree/master/wct_fc)
