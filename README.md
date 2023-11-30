@@ -2,8 +2,7 @@
 I'm a Data Scientist with experience in Geo Data, Oil & Gas, and drilling.
 
 ### 🏢 Work
-- I worked at such companies as [Zyfra](https://www.zyfra.com/), [Emerson (Roxar)](https://www.emerson.com/en-us/automation/roxar), [WintershallDea](https://wintershalldea.com/en), Rosneft, and GazpromNeft
--->
+- I worked at such companies as [Zyfra](https://www.zyfra.com/), [Emerson (Roxar)](https://www.emerson.com/en-us/automation/roxar), [WintershallDea](https://wintershalldea.com/en), Rosneft, and GazpromNeft.
 
 ### 👨‍🎓 Education
 - **Postgraduate Diploma in Data Science, Machine Learning and Artificial Intelligence**
