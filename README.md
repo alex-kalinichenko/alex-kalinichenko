@@ -1,8 +1,17 @@
 ### Hi 👋
-I'm a Data Scientist with experience in Geo Data, Oil & Gas, and drilling.
+I'm a **full-stack Data Scientist** with expertise in all stages of developing ML models: from **Exploration Data Analysis** to creating ML pipelines as **RESTful services** and deploying them into
+production with **front-end visualization**. Excels in analyzing complex data sets. Extensive background in the **Electric Vehicle** Charger infrastructure, **oil & gas industry**, manufacturing, and
+logistics (geodata). Advanced proficiency in Big Data analytics, enabling the extraction of actionable insights.
 
 ### 🏢 Work
-- I worked at such companies as [Zyfra](https://www.zyfra.com/), [Emerson (Roxar)](https://www.emerson.com/en-us/automation/roxar), [WintershallDea](https://wintershalldea.com/en), Rosneft, and GazpromNeft.
+I worked at such companies as:
+- [Zoniq (formerly Mobilyze)](https://www.zoniq.io) - develops Machine Learning services to identify the best EV Charger spots.
+- [Zyfra](https://www.zyfra.com/) - Zyfra’s Digital Industrial Platform (IDP) develops ML, AI, and IoT digital solutions for mining, oil & gas, and manufacturing.
+- [WintershallDea](https://wintershalldea.com/en) - leading European independent gas and oil company, focusing on the exploration and production of natural gas and crude oil.
+- [Emerson (Roxar)](https://www.emerson.com/en-us/automation/roxar) - combines cutting-edge software and innovative IT solutions to deliver advanced reservoir management and production optimization technologies for the oil and gas industry.
+- GazpromNeft - a major energy company specializing in the exploration, production, refining, and distribution of oil and petroleum products.
+- Rosneft - a major energy company specializing in the exploration, production, refining, and distribution of oil and petroleum products.
+
 
 ### 👨‍🎓 Education
 - **Postgraduate Diploma in Data Science, Machine Learning and Artificial Intelligence**
