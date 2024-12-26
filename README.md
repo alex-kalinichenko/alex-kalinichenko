@@ -9,8 +9,8 @@ I worked at such companies as:
 - [Zyfra](https://www.zyfra.com/) - Zyfra’s Digital Industrial Platform (IDP) develops ML, AI, and IoT digital solutions for mining, oil & gas, and manufacturing.
 - [WintershallDea](https://wintershalldea.com/en) - leading European independent gas and oil company, focusing on the exploration and production of natural gas and crude oil.
 - [Emerson (Roxar)](https://www.emerson.com/en-us/automation/roxar) - combines cutting-edge software and innovative IT solutions to deliver advanced reservoir management and production optimization technologies for the oil and gas industry.
-- GazpromNeft - a major energy company specializing in the exploration, production, refining, and distribution of oil and petroleum products.
-- Rosneft - a major energy company specializing in the exploration, production, refining, and distribution of oil and petroleum products.
+- **GazpromNeft** - a major energy company specializing in the exploration, production, refining, and distribution of oil and petroleum products.
+- **Rosneft** - a major energy company specializing in the exploration, production, refining, and distribution of oil and petroleum products.
 
 
 ### 👨‍🎓 Education
